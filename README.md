@@ -1,6 +1,6 @@
 It is a simple To do list developed using React Native
 
-API user dummy API
+API used dummy API
 
 # How to run the Code
 
@@ -16,7 +16,7 @@ API user dummy API
 2. use command in main directory npx react-native run-android
 
 # some useful commands
-  to run json server on local ip- json-server --watch db.json
+  To run json server on local ip- json-server --watch db.json
   to use API on emulator replace url ip with 10.0.2.2
 
 
